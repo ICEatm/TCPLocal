@@ -1,0 +1,8 @@
+server:
+  ip: "your host"
+  port: "your port"
+
+
+# This line is only needed in the config file for the client
+client:
+  messageSendInterval: 5000 # Interval in milliseconds
