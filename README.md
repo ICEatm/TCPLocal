@@ -12,6 +12,7 @@ This is a simple TCP client-server communication program where the client sends 
   - MachineName
   - External IP
   - Local IP
+  - DomainName
   - Operating System
   - Is OS 64 Bit
 
